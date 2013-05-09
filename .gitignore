@@ -1,4 +1,19 @@
 #################
+## Drive Light Specific
+#################
+
+DriveLight/Resources/DriveLightSetup.about.txt
+DriveLight/Resources/*.png
+DriveLight/Resources/*.bmp
+DriveLight/Resources/msiexec.exe
+DriveLight/GlobalSuppressions.vb
+DriveLight/My Project
+DriveLight/*.*
+DriveLight/
+DriveLightSetup.zip
+ignore me
+
+#################
 ## Eclipse
 #################
 
