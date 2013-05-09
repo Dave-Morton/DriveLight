@@ -1,0 +1,29 @@
+/****************************************************
+* Drive Light
+* Version 1.0.0
+* Written/Coded by Dave Morton
+* ©2012-2013 Geek Cave Creations
+* All Rights Reserved
+* All Lefts Hermetically Sealed for Your Protection
+* Written 05-08-2013
+* README
+* Describes the project
+****************************************************/
+
+Drive Light is a small utility application with only one single goal in mind; to display
+drive activity in the taskbar. It came about as a result of long term frustration over
+computers that I've had before that either didn't have a drive activity light, or were
+located in places where the light wasn't visible. Drive Light monitors all HDD/SSD drives
+installed on your system, and displays one of four different icons, depending on what your
+drives are doing. These icons are:
+
+1.) a "neutral" square with a grey background - Indicated no drive activity
+2.) a green square - indicates disk reads
+3.) a red square - indicates disk writes
+4.) a yellow square - indicates concurrent read/write activity
+
+Drive Light uses almost negligable resources, and has a tiny footprint (116KB executable file size).
+It currently has/requires no configuration, and will (or at least should) run on any Windows OS that
+supports .NET framework 4.0 - I've tested it with Windows XP 32 bit SP3, Windows 7 64 bit, and Windows
+8 Pro 64 bit. Plans for future versions include the option to use 'alternative' icons, but that's
+something that will be explored at a later time.
